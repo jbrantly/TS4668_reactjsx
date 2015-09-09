@@ -1,0 +1,1 @@
+tsc --module commonjs --jsx preserve app.tsx
